@@ -66,3 +66,11 @@ SUPABASE_ANON_KEY=your_supabase_anon_key
 LOVABLE_AI_KEY=your_lovable_ai_key
 ```
 
+
+
+
+
+The site already is deployed and worked at this domain:
+
+https://web-basic.lovable.app/
+
